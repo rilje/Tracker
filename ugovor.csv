@@ -1,0 +1,34 @@
+id,ime_radnika,tip_zaposlenja,datum pocetka,datum_zavrsetka,Broj meseci,slava,datum_slave
+1,Aleksandar Aleksovski,neodredjeno,17.05.2024,/,/,Djurdjevdan,06. Maj
+2,Andjelovic Toni,neodredjeno,04.06.2024,/,/,Arandjelovdan,21. Novembar
+3,Rapajic Filip,odredjeno,29.08.2024,28.02.2025,6,Sveti Jovan,20. Januar
+4,Pantic Milomir ,odredjeno,03.02.2025,03.05.2025,3,Sveti Nikola letnji,22. Maj
+5,Susnjar Djura,odredjeno,30.01.2025,30.04.2025,3,Djurdjevdan,06. Maj
+6,Simic Lazar,odredjeno,23.01.2025,23.04.2025,3,Sveti Nikola ,19. Decembar
+7,Mileta Komatovic,odredjeno,04.02.2025,04.08.2025,6,Sveti Nikola,19. Decembar
+8,Ranisavljevic Srdjan,odredjeno,20.02.2025,20.05.2025,3,Sveti Nikola letnji,22. Maj
+9,Stankovic Filip,odredjeno,10.01.2025,10.04.2025,3,Sveti Nikola,19. Decembar
+10,Slavko  Tamburovic ,neodredjeno,07.02.2024,/,/,Sveti Nikola,19. Decembar
+11,Vasovic Dusan,neodredjeno,21.03.2024,/,/,Mitrovdan,08. Novembar
+12,Radasinovic Uros,neodredjeno,29.05.2024,/,/,Djurdjic,16. Novembar
+13,Brkic Marija,odredjeno,03.01.2025,03.07.2025,6,Sveti Nikola,19. Decembar
+14,Djuric Alen,neodredjeno,13.06.2024,/,/,Sveti Arandjel,21. Novembar
+15,Vulin Zeljko,neodredjeno,22.10.2024,/,/,Djurdjevdan,06. Maj
+16,Ratkovic Ivica,odredjeno,10.01.2025,10.07.2025,6,Sveti Jovan Krstitelj,11. Septembar
+17,Velickovski Predrag,neodredjeno,29.10.2024,/,/,Arandjelovdan,21. Novembar
+18,Cvetkovic Sasa,neodredjeno,29.10.2024,/,/,Pantelejmon,09. Septembar
+19,Stojanovski Aleksandar,odredjeno,25.10.2024,25.04.2025,6,Spasovdan,/
+20,Krstic Rade,odredjeno,30.09.2024,30.03.2025,6,Sveti Stefan,09. Januar
+21,Tasev Danilo,neodredjeno,19.06.2024,/,/,Djurdjevdan ,05. Maj
+22,Vitic Goran,neodredjeno,04.06.2024,/,/,Djurdjevdan ,06. Maj
+23,Draksan Vasa,neodredjeno,13.08.2024,/,/,Sveta Petka,27. Decembar
+24,Blagoje Jokovic,neodredjeno,02.05.2024,/,/,Arandjelovdan,21. Novembar
+25,Velinovski Darko,neodredjeno,04.10.2023,/,/,/,/
+26,Aleksandar Djuric,neodredjeno,14.06.2024,/,/,Sveti Nikola,19. Decembar
+27,Pesic Milan,neodredjeno,10.05.2024,/,/,Sveti Stefan,09. Januar
+28,Lisanin Zeljko,neodredjeno,03.05.2024,/,/,Djurdjic,16. Novembar
+29,Ilica Sasa,neodredjeno,10.05.2024,/,/,Sveti Djordje,06. Novembar
+30,Despotovski Strahinja,neodredjeno,23.06.2022,/,/,/,/
+31,Slavkovic Sara,neodredjeno,28.08.2023,/,/,/,/
+32,Tosic Milan,neodredjeno,10.04.2023,/,/,/,/
+33,Vukajlovic Zoran,neodredjeno,09.01.2023,/,/,/,/
